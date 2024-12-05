@@ -1,0 +1,6 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "yaml.schemas": {
+    "https://json.schemastore.org/bukkit-plugin.json": "file:///f%3A/snowychristmas/src/main/resources/plugin.yml"
+  }
+}
